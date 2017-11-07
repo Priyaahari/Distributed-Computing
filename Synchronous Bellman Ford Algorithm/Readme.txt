@@ -4,11 +4,6 @@ Date: March 13 2017
 
 PROJECT 1(Synchronous Bellman Ford Algorithm):
 
-Team Members:
-Deepak Shanmugam    -- dxs161930
-Ashwath Santhanam   -- axs161730
-Haripriyaa U Manian -- hum160030
-
 
 ----SPECIFICATIONS-----
 
