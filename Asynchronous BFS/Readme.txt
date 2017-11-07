@@ -2,10 +2,7 @@ CS 6380 Distributed Computing -- Spring 2017
 
 PROJECT 2(Asynchronous BFS Algorithm):
 
-Team Members:
-Deepak Shanmugam    -- dxs161930
-Ashwath Santhanam   -- axs161730
-Haripriyaa U Manian -- hum160030
+
 
 
 ----SPECIFICATIONS-----
